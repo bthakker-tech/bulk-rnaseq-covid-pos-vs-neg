@@ -1,0 +1,485 @@
+sample,positivity,ct_value,age,gender,batch
+POS_001,pos,18.88,64.0,M,I
+POS_002,pos,21.18,30.0,F,I
+POS_003,pos,24.24,47.0,M,I
+POS_004,pos,18.91,67.0,F,G
+POS_005,pos,25.62,62.0,M,H
+POS_006,pos,25.61,52.0,F,H
+POS_007,pos,21.8735,39.0,M,G
+POS_008,pos,25.91,59.0,F,I
+POS_009,pos,21.85,60.0,F,I
+POS_010,pos,17.99,71.0,M,I
+POS_011,pos,18.63,64.0,M,H
+POS_012,pos,19.3,45.0,F,I
+POS_013,pos,19.7662,42.0,not collected,G
+POS_014,pos,19.47,53.0,F,M
+POS_015,pos,19.34,86.0,F,G
+POS_016,pos,23.95,50.0,F,I
+POS_017,pos,15.5,65.0,F,H
+POS_018,pos,25.5,34.0,F,M
+POS_019,pos,22.68,67.0,M,M
+POS_020,pos,15.2341,61.0,M,J
+POS_021,pos,23.8,60.0,F,J
+POS_022,pos,19.5,23.0,M,H
+POS_023,pos,16.66,61.0,F,I
+POS_024,pos,23.21,33.0,F,I
+POS_025,pos,17.64,33.0,F,J
+POS_026,pos,22.64,24.0,M,J
+POS_027,pos,17.31,51.0,F,J
+POS_028,pos,18.62,25.0,M,J
+POS_029,pos,24.54,82.0,M,I
+POS_030,pos,21.19,72.0,F,H
+POS_031,pos,19.17,78.0,M,H
+POS_032,pos,21.12,72.0,M,H
+POS_033,pos,15.92,61.0,F,O
+POS_034,pos,19.29,68.0,F,O
+POS_035,pos,24.63,34.0,M,O
+POS_036,pos,15.29,75.0,M,O
+POS_037,pos,23.92,55.0,F,O
+POS_039,pos,13.28,46.0,F,Q
+POS_040,pos,21.52,27.0,F,Q
+POS_041,pos,23.83,31.0,F,Q
+POS_042,pos,21.64,51.0,M,Q
+POS_043,pos,16.06,46.0,F,Q
+POS_044,pos,21.76,51.0,M,Q
+POS_045,pos,20.07,71.0,F,Q
+POS_046,pos,20.6,88.0,M,Q
+POS_047,pos,18.4,71.0,F,Q
+POS_048,pos,17.92,41.0,M,Q
+POS_049,pos,20.54,51.0,M,Q
+POS_050,pos,25.22,53.0,M,Q
+POS_051,pos,25.09,52.0,F,Q
+POS_052,pos,14.96,80.0,F,Q
+POS_053,pos,14.48,37.0,F,Q
+POS_055,pos,19.85,51.0,M,Q
+POS_056,pos,24.2,41.0,F,Q
+POS_057,pos,24.65,64.0,F,Q
+POS_058,pos,24.73,28.0,F,Q
+POS_059,pos,19.6,37.0,M,Q
+POS_060,pos,19.35,62.0,F,Q
+POS_061,pos,14.41,78.0,F,E
+POS_062,pos,14.29,19.0,F,F
+POS_063,pos,20.69,76.0,M,E
+POS_064,pos,20.33,23.0,M,F
+POS_065,pos,17.09,30.0,M,F
+POS_066,pos,25.64,63.0,F,F
+POS_067,pos,17.75,75.0,F,F
+POS_068,pos,19.71,65.0,F,F
+POS_069,pos,23.78,21.0,F,F
+POS_070,pos,21.55,51.0,F,F
+POS_071,pos,25.31,72.0,M,F
+POS_072,pos,20.55,66.0,M,F
+POS_073,pos,24.93,57.0,M,F
+POS_074,pos,21.11,83.0,not collected,F
+POS_075,pos,20.41,56.0,M,I
+POS_076,pos,20.24,49.0,F,I
+POS_077,pos,20.66,44.0,F,F
+POS_078,pos,18.45,49.0,not collected,F
+POS_079,pos,22.83,57.0,F,I
+POS_080,pos,25.69,34.0,F,F
+POS_081,pos,18.37,57.0,not collected,F
+POS_082,pos,18.09,46.0,not collected,F
+POS_083,pos,16.78,26.0,M,F
+POS_084,pos,20.75,69.0,F,I
+POS_085,pos,17.11,56.0,F,O
+POS_086,pos,21.4,30.0,M,O
+POS_087,pos,23.72,58.0,F,O
+POS_088,pos,15.04,77.0,F,O
+POS_089,pos,22.96,33.0,F,O
+POS_090,pos,23.85,53.0,M,O
+POS_092,pos,14.84,56.0,F,O
+POS_093,pos,14.96,32.0,M,O
+POS_094,pos,12.32,44.0,M,O
+POS_095,pos,20.32,28.0,F,O
+POS_096,pos,20.55,46.0,F,O
+POS_097,pos,20.73,28.0,F,Q
+POS_098,pos,14.79,43.0,M,Q
+POS_099,pos,28.78,72.0,F,B
+POS_100,pos,23.11,54.0,F,C
+POS_101,pos,27.8,22.0,F,C
+POS_102,pos,15.23,64.0,M,B
+POS_103,pos,18.31,43.0,F,B
+POS_104,pos,24.94,59.0,M,B
+POS_105,pos,25.49,81.0,M,B
+POS_106,pos,19.18,54.0,M,B
+POS_107,pos,23.01,65.0,M,B
+POS_108,pos,25.43,67.0,F,B
+POS_109,pos,22.34,80.0,M,C
+POS_111,pos,21.31,43.0,F,B
+POS_112,pos,17.81,49.0,M,M
+POS_113,pos,26.34,53.0,M,L
+POS_114,pos,23.51,90.0,F,L
+POS_115,pos,21.76,38.0,F,L
+POS_116,pos,23.53,70.0,M,L
+POS_117,pos,22.74,38.0,not collected,L
+POS_118,pos,16.84,54.0,F,L
+POS_119,pos,17.08,66.0,F,L
+POS_120,pos,21.93,67.0,M,L
+POS_121,pos,14.5,36.0,not collected,L
+POS_122,pos,20.18,56.0,F,L
+POS_123,pos,17.09,41.0,not collected,L
+POS_124,pos,19.56,20.0,not collected,L
+POS_125,pos,18.65,51.0,not collected,L
+POS_126,pos,19.08,66.0,F,L
+POS_127,pos,18.31,35.0,F,M
+POS_128,pos,16.46,90.0,F,L
+POS_129,pos,24.21,47.0,F,M
+POS_130,pos,16.43,35.0,F,L
+POS_131,pos,21.92,27.0,M,M
+POS_132,pos,19.92,90.0,M,L
+POS_133,pos,24.16,29.0,F,L
+POS_134,pos,20.59,51.0,F,M
+POS_135,pos,17.2,50.0,F,L
+POS_136,pos,25.86,28.0,F,L
+POS_137,pos,25.36,30.0,M,N
+POS_138,pos,26.01,27.0,M,L
+POS_139,pos,20.26,48.0,F,N
+POS_141,pos,24.59,64.0,M,N
+POS_142,pos,21.93,80.0,M,L
+POS_143,pos,14.55,52.0,not collected,L
+POS_144,pos,24.82,44.0,M,P
+POS_145,pos,17.57,90.0,M,N
+POS_146,pos,18.42,41.0,M,P
+POS_147,pos,22.14,46.0,M,P
+POS_148,pos,19.6,63.0,F,P
+POS_149,pos,22.39,76.0,M,N
+POS_150,pos,19.71,30.0,F,P
+POS_151,pos,22.03,29.0,F,P
+POS_152,pos,22.87,41.0,M,N
+POS_153,pos,24.15,53.0,M,P
+POS_154,pos,24.17,20.0,not collected,P
+POS_155,pos,18.21,39.0,F,K
+POS_156,pos,17.73,25.0,F,H
+POS_157,pos,21.79,72.0,F,H
+POS_158,pos,18.71,27.0,F,L
+POS_159,pos,25.34,30.0,M,H
+POS_160,pos,24.94,82.0,F,H
+POS_161,pos,24.8097,87.0,F,G
+POS_162,pos,18.93,56.0,M,K
+POS_163,pos,22.83,70.0,M,H
+POS_164,pos,20.2725,66.0,F,J
+POS_165,pos,19.637,72.0,F,J
+POS_166,pos,18.46,50.0,M,H
+POS_167,pos,24.4803,49.0,F,G
+POS_168,pos,16.5525,56.0,not collected,J
+POS_169,pos,23.54,50.0,F,M
+POS_170,pos,18.69,52.0,not collected,L
+POS_171,pos,20.73,75.0,not collected,H
+POS_172,pos,21.93,90.0,F,M
+POS_173,pos,24.78,82.0,F,K
+POS_174,pos,23.12,30.0,M,J
+POS_175,pos,15.17,83.0,F,K
+POS_176,pos,23.33,21.0,not collected,L
+POS_177,pos,22.53,45.0,not collected,L
+POS_178,pos,18.64,64.0,not collected,L
+POS_179,pos,20.91,48.0,F,L
+POS_180,pos,14.6424,76.0,M,G
+POS_181,pos,23.1274,37.0,M,G
+POS_182,pos,14.9152,90.0,F,G
+POS_183,pos,20.81,50.0,M,J
+POS_184,pos,22.8,48.0,M,J
+POS_185,pos,20.11,90.0,M,Q
+POS_186,pos,22.54,40.0,F,Q
+POS_187,pos,15.64,31.0,F,Q
+POS_188,pos,19.94,22.0,F,Q
+POS_189,pos,25.25,61.0,M,Q
+POS_190,pos,22.54,24.0,F,Q
+POS_191,pos,20.33,67.0,M,Q
+POS_192,pos,22.94,37.0,F,Q
+POS_193,pos,24.16,51.0,M,Q
+POS_194,pos,19.38,83.0,F,Q
+POS_195,pos,18.81,39.0,M,Q
+POS_196,pos,16.24,41.0,M,Q
+POS_197,pos,20.99,48.0,F,Q
+POS_198,pos,21.36,26.0,F,Q
+POS_199,pos,18.32,79.0,F,Q
+POS_200,pos,20.92,62.0,M,Q
+POS_201,pos,20.38,76.0,M,Q
+POS_202,pos,25.59,44.0,M,Q
+POS_203,pos,20.42,57.0,F,Q
+POS_204,pos,18.15,72.0,M,Q
+POS_205,pos,22.36,59.0,F,Q
+POS_206,pos,24.67,60.0,M,Q
+POS_207,pos,21.44,76.0,F,Q
+POS_208,pos,20.23,32.0,F,Q
+POS_209,pos,20.48,66.0,M,Q
+POS_210,pos,18.29,65.0,M,Q
+POS_211,pos,22.97,33.0,F,Q
+POS_212,pos,19.08,72.0,M,Q
+POS_213,pos,23.81,12.0,M,Q
+POS_214,pos,23.9,51.0,M,K
+POS_215,pos,19.12,80.0,M,M
+POS_216,pos,24.03,45.0,F,H
+POS_217,pos,23.9381,57.0,F,G
+POS_218,pos,24.66,57.0,M,J
+POS_219,pos,23.38,47.0,F,H
+POS_220,pos,19.68,86.0,F,H
+POS_221,pos,16.18,29.0,M,L
+POS_222,pos,16.77,33.0,M,H
+POS_223,pos,21.34,43.0,M,K
+POS_224,pos,25.62,31.0,F,H
+POS_225,pos,27.24,78.0,F,B
+POS_226,pos,22.89,79.0,F,B
+POS_227,pos,19.13,90.0,F,B
+POS_228,pos,27.92,81.0,M,B
+POS_229,pos,21.27,21.0,F,B
+POS_230,pos,27.68,71.0,M,B
+POS_231,pos,29.69,82.0,not collected,C
+POS_232,pos,23.25,41.0,M,C
+POS_233,pos,24.18,35.0,M,C
+POS_234,pos,18.27,58.0,F,C
+POS_236,pos,18.22,75.0,M,C
+POS_237,pos,25.77,77.0,not collected,C
+POS_238,pos,14.43,53.0,M,C
+POS_239,pos,17.26,70.0,F,C
+POS_240,pos,16.71,41.0,M,C
+POS_241,pos,25.49,59.0,M,D
+POS_242,pos,17.66,43.0,F,C
+POS_243,pos,22.35,22.0,M,D
+POS_244,pos,22.0,55.0,M,D
+POS_245,pos,19.96,67.0,F,C
+POS_246,pos,26.91,57.0,F,D
+POS_247,pos,20.68,71.0,F,D
+POS_249,pos,25.17,62.0,F,D
+POS_250,pos,19.38,64.0,M,C
+POS_251,pos,18.35,16.0,M,D
+POS_252,pos,20.37,58.0,not collected,C
+POS_253,pos,24.96,37.0,F,D
+POS_254,pos,22.57,37.0,F,E
+POS_255,pos,25.37,56.0,M,E
+POS_256,pos,25.18,79.0,F,E
+POS_257,pos,22.06,49.0,F,N
+POS_258,pos,14.8,63.0,F,N
+POS_259,pos,19.75,58.0,M,N
+POS_260,pos,19.91,90.0,F,N
+POS_261,pos,25.87,79.0,F,N
+POS_262,pos,21.66,70.0,M,L
+POS_263,pos,20.17,35.0,M,P
+POS_264,pos,26.2,62.0,F,P
+POS_265,pos,15.14,57.0,M,P
+POS_266,pos,17.7,36.0,F,P
+POS_267,pos,27.86,41.0,F,P
+POS_268,pos,19.13,63.0,M,P
+POS_269,pos,18.72,61.0,F,P
+POS_270,pos,20.27,35.0,F,P
+POS_271,pos,24.0,57.0,F,P
+POS_272,pos,20.86,52.0,not collected,P
+POS_273,pos,22.12,45.0,M,P
+POS_274,pos,26.78,39.0,F,P
+POS_275,pos,19.41,30.0,M,P
+POS_276,pos,25.65,64.0,M,N
+POS_277,pos,17.79,57.0,M,P
+POS_278,pos,21.29,53.0,F,P
+POS_279,pos,24.26,57.0,M,P
+POS_280,pos,19.11,72.0,F,P
+POS_281,pos,19.1,23.0,M,P
+POS_282,pos,24.87,88.0,F,P
+POS_283,pos,19.23,90.0,F,P
+POS_284,pos,24.47,90.0,F,P
+POS_285,pos,18.55,60.0,F,P
+POS_286,pos,20.31,40.0,F,P
+POS_287,pos,21.91,90.0,M,P
+POS_288,pos,19.74,80.0,M,P
+POS_289,pos,24.82,19.0,F,O
+POS_290,pos,25.24,77.0,F,D
+POS_291,pos,19.14,76.0,F,D
+POS_292,pos,16.7,53.0,M,D
+POS_293,pos,22.8,58.0,M,E
+POS_295,pos,21.34,72.0,not collected,D
+POS_296,pos,20.02,71.0,not collected,D
+POS_297,pos,17.85,36.0,not collected,D
+POS_298,pos,17.73,49.0,M,E
+POS_299,pos,21.19,76.0,F,E
+POS_300,pos,25.27,70.0,M,E
+POS_301,pos,16.6,28.0,F,E
+POS_302,pos,23.92,32.0,M,E
+POS_303,pos,22.292,84.0,F,E
+POS_304,pos,18.15,90.0,F,E
+POS_305,pos,21.77,25.0,F,E
+POS_306,pos,25.53,70.0,F,E
+POS_307,pos,18.56,24.0,M,E
+POS_308,pos,17.72,48.0,F,F
+POS_309,pos,20.29,28.0,M,E
+POS_310,pos,20.49,40.0,M,F
+POS_311,pos,25.37,70.0,M,F
+POS_312,pos,23.99,58.0,F,E
+POS_313,pos,18.92,70.0,M,E
+POS_314,pos,22.15,89.0,M,E
+POS_315,pos,15.87,89.0,M,E
+POS_316,pos,21.48,52.0,F,F
+POS_317,pos,23.35,71.0,M,F
+POS_318,pos,18.01,48.0,not collected,E
+POS_319,pos,23.8,66.0,not collected,F
+POS_320,pos,26.11,65.0,M,E
+POS_321,pos,21.64,87.0,F,P
+POS_322,pos,22.52,78.0,F,P
+POS_323,pos,20.02,90.0,M,P
+POS_324,pos,16.82,39.0,M,P
+POS_325,pos,16.41,38.0,M,P
+POS_326,pos,20.62,58.0,M,P
+POS_327,pos,19.81,56.0,F,P
+POS_328,pos,18.58,85.0,M,P
+POS_329,pos,20.36,47.0,M,P
+POS_330,pos,20.19,51.0,M,P
+POS_331,pos,21.39,58.0,F,P
+POS_332,pos,20.51,42.0,M,P
+POS_333,pos,20.24,78.0,M,P
+POS_334,pos,20.44,56.0,F,P
+POS_335,pos,18.68,39.0,F,O
+POS_336,pos,19.39,50.0,M,O
+POS_337,pos,19.64,63.0,M,O
+POS_338,pos,15.28,64.0,not collected,P
+POS_339,pos,24.46,22.0,M,P
+POS_340,pos,20.13,71.0,not collected,P
+POS_341,pos,17.73,80.0,F,P
+POS_342,pos,22.4,32.0,F,O
+POS_343,pos,23.08,85.0,M,P
+POS_344,pos,22.38,56.0,not collected,P
+POS_345,pos,24.65,71.0,F,O
+POS_346,pos,22.25,61.0,F,P
+POS_347,pos,23.89,50.0,not collected,O
+POS_348,pos,17.61,28.0,F,O
+POS_349,pos,23.59,40.0,M,O
+POS_350,pos,25.93,84.0,F,O
+POS_351,pos,18.53,24.0,F,O
+POS_352,pos,13.7,60.0,F,O
+POS_353,pos,29.44,28.0,M,A
+POS_354,pos,27.61,22.0,F,A
+POS_355,pos,24.28,90.0,F,A
+POS_356,pos,21.8,71.0,F,A
+POS_357,pos,24.13,74.0,M,A
+POS_358,pos,24.28,90.0,F,A
+POS_359,pos,23.46,81.0,F,A
+POS_360,pos,29.13,86.0,M,A
+POS_361,pos,28.04,90.0,F,A
+POS_362,pos,16.43,82.0,M,A
+POS_363,pos,21.08,90.0,M,A
+POS_364,pos,22.03,85.0,F,A
+POS_365,pos,26.94,70.0,F,A
+POS_366,pos,30.54,90.0,F,A
+POS_367,pos,27.3,85.0,F,A
+POS_368,pos,27.47,54.0,M,A
+POS_369,pos,28.43,58.0,M,A
+POS_370,pos,27.95,62.0,not collected,A
+POS_371,pos,25.43,78.0,M,A
+POS_372,pos,16.57,90.0,F,J
+POS_373,pos,25.6408,39.0,M,G
+POS_374,pos,13.1299,45.0,not collected,J
+POS_375,pos,20.2351,57.0,not collected,J
+POS_376,pos,22.57,28.0,F,J
+POS_377,pos,22.82,85.0,F,L
+POS_378,pos,19.69,90.0,M,M
+POS_379,pos,17.0,49.0,not collected,L
+POS_380,pos,24.6,55.0,M,H
+POS_381,pos,24.39,78.0,F,J
+POS_382,pos,23.11,77.0,M,K
+POS_383,pos,23.86,59.0,M,K
+POS_384,pos,14.9203,47.0,M,G
+POS_385,pos,17.73,58.0,F,J
+POS_386,pos,24.33,63.0,M,J
+POS_387,pos,23.53,55.0,F,J
+POS_388,pos,21.9453,78.0,F,G
+POS_389,pos,21.46,18.0,F,J
+POS_390,pos,20.22,44.0,F,J
+POS_391,pos,21.197,54.0,F,G
+POS_392,pos,25.8747,41.0,F,G
+POS_393,pos,19.19,33.0,F,J
+POS_394,pos,25.34,2.0,M,L
+POS_395,pos,17.09,37.0,F,J
+POS_396,pos,22.47,72.0,M,J
+POS_397,pos,22.81,48.0,F,K
+POS_398,pos,24.98,75.0,F,M
+POS_399,pos,19.43,58.0,F,K
+POS_400,pos,21.46,82.0,not collected,M
+POS_401,pos,25.46,78.0,F,L
+POS_402,pos,19.5,81.0,M,M
+POS_403,pos,16.46,57.0,F,M
+POS_404,pos,21.19,74.0,M,L
+POS_405,pos,21.02,54.0,M,L
+POS_406,pos,22.81,50.0,M,L
+POS_407,pos,17.9,37.0,F,L
+POS_408,pos,25.58,38.0,M,L
+POS_409,pos,22.09,45.0,M,L
+POS_410,pos,21.5,78.0,M,M
+POS_411,pos,21.8405,78.0,M,G
+POS_412,pos,19.11,65.0,M,L
+POS_413,pos,26.32,42.0,F,N
+POS_414,pos,19.44,35.0,M,L
+POS_415,pos,24.41,35.0,M,M
+POS_416,pos,23.88,39.0,F,M
+POS_417,pos,19.18,48.0,M,Q
+POS_418,pos,25.43,42.0,M,Q
+POS_419,pos,20.99,53.0,M,Q
+POS_420,pos,17.56,61.0,F,Q
+POS_421,pos,21.58,51.0,M,Q
+POS_422,pos,,,not collected,T
+POS_423,pos,,,not collected,T
+POS_424,pos,,,not collected,T
+POS_425,pos,,,not collected,T
+POS_426,pos,,,not collected,T
+POS_427,pos,,,not collected,T
+POS_428,pos,,,not collected,T
+POS_429,pos,,,not collected,T
+POS_430,pos,,,not collected,R
+POS_431,pos,,,not collected,R
+POS_432,pos,,,not collected,R
+POS_433,pos,,,not collected,R
+POS_434,pos,,,not collected,R
+POS_435,pos,,,not collected,R
+POS_436,pos,,,not collected,R
+POS_437,pos,,,not collected,R
+POS_438,pos,,,not collected,R
+NEG_001,neg,,26.0,F,R
+NEG_002,neg,,29.0,F,R
+NEG_003,neg,,47.0,M,R
+NEG_004,neg,,66.0,M,R
+NEG_005,neg,,51.0,M,R
+NEG_006,neg,,45.0,M,R
+NEG_007,neg,,13.0,M,R
+NEG_008,neg,,12.0,M,R
+NEG_009,neg,,35.0,F,R
+NEG_010,neg,,64.0,M,R
+NEG_011,neg,,23.0,F,R
+NEG_012,neg,,60.0,M,R
+NEG_013,neg,,76.0,F,R
+NEG_014,neg,,90.0,M,C
+NEG_016,neg,,29.0,F,U
+NEG_018,neg,,65.0,F,S
+NEG_019,neg,,22.0,F,S
+NEG_020,neg,,30.0,F,S
+NEG_021,neg,,79.0,M,S
+NEG_022,neg,,22.0,F,S
+NEG_023,neg,,63.0,F,S
+NEG_024,neg,,74.0,F,S
+NEG_025,neg,,38.0,F,S
+NEG_026,neg,,45.0,F,S
+NEG_027,neg,,51.0,M,T
+NEG_028,neg,,55.0,M,T
+NEG_030,neg,,23.0,F,T
+NEG_031,neg,,52.0,F,U
+NEG_032,neg,,71.0,F,U
+NEG_035,neg,,66.0,F,U
+NEG_036,neg,,40.0,F,U
+NEG_037,neg,,22.0,F,U
+NEG_038,neg,,63.0,F,U
+NEG_039,neg,,66.0,F,U
+NEG_040,neg,,30.0,M,U
+NEG_042,neg,,55.0,M,U
+NEG_043,neg,,72.0,M,U
+NEG_046,neg,,44.0,M,S
+NEG_047,neg,,52.0,F,S
+NEG_048,neg,,43.0,M,U
+NEG_049,neg,,54.0,M,U
+NEG_050,neg,,54.0,M,U
+NEG_051,neg,,30.0,F,S
+NEG_052,neg,,20.0,F,S
+NEG_054,neg,,24.0,F,S
+NEG_055,neg,,41.0,F,S
+NEG_056,neg,,39.0,F,S
+NEG_057,neg,,46.0,M,S
+NEG_058,neg,,47.0,M,S
+NEG_059,neg,,41.0,F,S
+NEG_060,neg,,22.0,M,S
+NEG_062,neg,,59.0,M,U
+NEG_063,neg,,49.0,F,U
+NEG_065,neg,,75.0,M,R
